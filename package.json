@@ -1,0 +1,19 @@
+{
+  "name": "5-cards-draw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevBongz/5-card-draw.git"
+  },
+  "author": "bongani-duma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevBongz/5-card-draw/issues"
+  },
+  "homepage": "https://github.com/DevBongz/5-card-draw#readme"
+}
