@@ -1,10 +1,10 @@
 {
   "name": "5-cards-draw",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/DevBongz/5-card-draw/issues"
   },
-  "homepage": "https://github.com/DevBongz/5-card-draw#readme"
+  "homepage": "https://github.com/DevBongz/5-card-draw#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "keywords": [],
+  "description": ""
 }
